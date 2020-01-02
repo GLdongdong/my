@@ -1,0 +1,101 @@
+.topone{
+    width: 100%;
+    height: 200px;;
+    background-color: #16181f;
+    display: flex;
+    /* align-items: center; */
+    font-size: 1em;
+    border-top: 1px solid  rgba(148, 141, 141, 0.753);
+    border-bottom: 2px solid  rgb(34, 40, 44);
+    background-image: url(logo3.png);
+
+    background-position: 16.5%;
+
+    background-repeat: no-repeat;
+    background-size: 100px,100px,100px,100px;
+    background-position:500px 50px;
+    
+    
+}
+.topone2{
+    border-top: 2px solid  rgba(53, 51, 51, 0.753);
+    width: 60%;
+    height: 30%;
+    margin-top: 150px;
+    margin-left: 360px;
+    display: flex;
+    position: absolute;
+}
+
+.youxi{
+    width: 100%;
+    height: 70%;
+    
+}
+.Z1{
+    margin-top: 18px;
+    color: rgb(255, 118, 77);
+    
+   
+}
+.Z6{
+    color: rgb(221, 231, 241);
+    margin-top: -25px;
+    margin-left: 8px;
+    letter-spacing:8px;
+    
+}
+.zi{
+    text-decoration-line: none;
+   
+    font-size: 20px;
+    text-decoration-line: none;
+    font-family: inherit;
+    margin-left: 350px;
+    margin-top: 30px;
+    position: absolute;
+}
+.its:link{ 
+     
+    text-decoration-line: none;
+} 
+
+.its:visited{ 
+    color: rgb(255, 255, 255); 
+    
+    
+} 
+.its:hover{ 
+     
+    color: rgba(255, 104, 4, 0.76) ;
+    font-size: 10px;
+   
+} 
+.it{
+    width: 120px;
+    height: 50px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(8, 7, 7);
+    font-size: 15px;
+}
+.daohang{
+    width: 33%;
+    height: 16%;
+    border-right: 1px solid  rgba(105, 92, 92, 0.753);
+    float: left;
+}
+.daohang1{
+    width: 33%;
+    height: 16%;
+    border-right: 1px solid  rgba(105, 92, 92, 0.753);
+    float: left;
+}
+.guanggao{
+    position: absolute;
+    margin-left:700px;
+    margin-top: 60px;
+    
+}

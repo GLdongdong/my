@@ -1,0 +1,151 @@
+
+.yuoxipage{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.a{
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 2%;
+    background-color: rgb(167, 201, 231);
+    font-size:22px;
+}
+.b{
+    width:  100%;
+    height: 2800px;
+    background-color:#e6f7ff;
+    background-image: url(./17.jpg);
+}
+.c{
+    margin-left: 19%;
+    width: 60%;
+    height: 2800px;
+    background-color:white;
+}
+.aa{
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+}
+.bb{
+    text-align: center;
+    width:100%;
+    font-size: 22px;
+}
+.bb1{
+    text-align: center;
+    float: left;
+    background-color: rgb(112, 112, 224);
+}
+.bb2{
+    text-align: center;
+    float: left;
+    background-color: rgb(112, 112, 224);
+}
+.bb3{
+    text-align: center;
+    float: left;
+    background-color: rgb(112, 112, 224);
+}
+.bb4{
+    text-align: center;
+    float: left;
+    background-color: rgb(112, 112, 224);
+}
+.bb5{
+    text-align: center;
+    float: left;
+    background-color: rgb(112, 112, 224);
+}
+.bb6{
+    text-align: center;
+    float: left;
+    background-color: rgb(112, 112, 224);
+}
+.cc{
+     width: 100%;
+ }
+ .dd{
+     width: 100%;
+     font-size: 18px;
+     color: #474444;
+     font-weight: 900;
+     padding-left: 50px;
+ }
+ .ee{
+     width: 100%;
+     height: 260px;
+ }
+ .ee1{
+    float: left;
+    padding-left: 50px;
+ }
+ .ee2{
+    padding-left: 2%;
+    float: left;
+    font-size: 22px;
+    background-color: white;
+    height: 240px;
+ }
+ .ee21{
+     width: 100%;
+ }
+ .ee22{
+    width: 100%;
+}
+.ee221{
+    width: 33.3%;
+    float: left;
+    text-align: center;
+}
+.ee222{
+    width: 33.3%;
+    float: left;
+    text-align: center;
+}
+.ee223{
+    width: 33.3%;
+    float: left;
+    text-align: center;
+}
+.ff{
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    font-size: 18px;
+     color: #474444;
+     font-weight: 900;
+     /* padding-left: 50px; */
+} 
+.ff1{
+    width: 95%;
+    font-size: 18px;
+padding-left: 50px;
+} 
+.hh{
+    width: 100%;
+    font-size: 18px;
+    padding-left: 50px;
+} 
+.gg{
+    width: 100%;
+    height: 280px;
+}
+.gg1{
+   width: 100%;
+}
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 160px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  .ee2234{
+      left: 300px;
+  }

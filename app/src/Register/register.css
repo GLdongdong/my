@@ -1,0 +1,82 @@
+.all{
+    background:url(./05.jpg);
+    background-size: 100%;
+    margin: 0 auto;
+    height: 950px;
+    width: 100%;
+}
+
+.signinpage{
+    height: 700px;
+    width: 600px;
+    margin: auto;
+    border: 1px solid;
+    border-radius: 2px;
+    position: relative;
+    top: 150px;
+
+}
+
+.signinhead{
+    height: 100px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    background-color: aquamarine;
+}
+
+.signincon{
+    background: url(./02.JPG) no-repeat ;
+    margin: 0 auto;
+    background-size: 100%;
+    height: 600px;
+    width: 600px;
+}
+
+.scinput{
+    background: none;
+    width: 500px;
+    height:200px;
+    position: relative;
+    left: 150px;
+    top: 100px;
+}
+
+.scinput input{
+    background: none;
+    width: 300px;
+    border: 1px solid black;
+    float: left;
+    color: black;
+}
+
+.scinput input::-webkit-input-placeholder{
+    color: #000;
+}
+
+.scipassword{
+    position: relative;
+    top: 10px;
+}
+.scipassword1{
+    position: relative;
+    top: 20px;
+}
+.scipassword2{
+    position: relative;
+    top: 30px;
+}
+.scipassword3{
+    position: relative;
+    top: 40px;
+}
+.scbutton{
+    position: relative;
+    top:120px;
+    left:150px;
+    width: 300px;
+}
+
+

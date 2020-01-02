@@ -1,0 +1,321 @@
+.major {
+    width: 100%;
+    height: 2200px;
+    background-image: url(picture1.png);
+
+}
+
+.major1 {
+    height: 2200px;
+    width: 60%;
+    background-color: rgb(250, 253, 255);
+    margin-left: 19%;
+}
+
+.images {
+    width: 94%;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 3.2%;
+}
+
+.buju {
+    width: 175px;
+    height: 100px;
+    float: left;
+    position: relative;
+    max-width: 100%;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.img img {
+    position: relative;
+    width: 160px;
+    height: 80px;
+    max-width: 100%;
+    border-radius: 10px 10px 10px 10px;
+}
+
+
+/* .buju .text{
+        position: absolute;
+        top: 250px;
+        left: 300px;
+        width: 200px;
+        height: 100px;
+        text-align: center;
+        font-size: 30px;
+        display: none;
+    }
+    .buju:hover img {   
+        -webkit-filter: blur(10px);
+           -moz-filter: blur(10px);
+            -ms-filter: blur(10px);    
+                filter: blur(10px);
+        filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=10, MakeShadow=false); /* IE6~IE9 */
+
+
+/* }
+    .buju:hover .text {
+        display: block;
+    } */
+
+.buju .info {
+    position: absolute;
+    top: 0;
+    bottom: 18px;
+    left: 0;
+    right: 14px;
+    text-align: center;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background: rgb(0, 0, 0);
+    opacity: 0;
+    -webkit-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    transition: all 0.35s ease-in-out;
+    
+}
+
+.buju a:hover .info {
+    opacity: 0.8;
+    border-radius: 10px 10px 10px 10px;
+}
+
+
+.font {
+    color: rgb(254, 254, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.font1{
+    color: rgb(131, 131, 131);
+    font-family: inherit;
+}
+.liebiao{
+    width: 94%;
+    height: 230px;
+    /* background-color: rgb(207, 107, 107); */
+    margin-left: 3.2%;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    
+}
+.Lie{
+    width: 100%;
+    height: 45px;
+    /* background-color: aqua; */
+    
+}
+.Lie1{
+    width: 100%;
+    height: 80%;
+    /* background-color: chartreuse; */
+   padding-top: 10px;
+   
+}
+.P{
+    width: 10%;
+    height: 100%;
+    float: left;
+    color: rgb(161, 163, 162);
+}
+.Pone{
+    width: 90%;
+    height: 100%;
+    float: left;
+    border-radius:5px 5px 0 0;
+}
+.Pone1{
+    width:9%;
+    height: 100%;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    border-radius:15px 15px 15px 15px;
+}
+.Pone1:link{ 
+     
+    text-decoration-line: none;
+} 
+
+.Pone1:visited{ 
+    color: rgb(105, 101, 101); 
+    
+    
+} 
+.Pone1:hover{ 
+    font-size: 13px;
+    background-color: rgb(250, 118, 57);
+} 
+.Pone2{
+    margin-left: 35%;
+    margin-top: 2px;
+}
+.Pone3{
+    width: 94%;
+    
+    /* background-color: rgb(207, 107, 107); */
+    margin-left: 3.2%;
+    padding-top: 10px;
+}
+.GGao{
+    width: 100%;
+    height: 90px;
+    background-color: rgba(226, 221, 221, 0.856);
+}
+.biaoqian1{
+    width: 95%;
+    height: 70%;
+    background-color: rgb(255, 255, 255);
+    margin-left: 3.2%;
+}
+.buju1 {
+    width: 180px;
+    height: 280px;
+    float: left;
+    position: relative;
+    max-width: 100%;
+    
+}
+.img1 img {
+    position: relative;
+    width: 150px;
+    height: 190px;
+    max-width: 100%;
+    border-radius: 10px 10px 10px 10px;
+}
+.buju1 .info1 {
+    position: absolute;
+    top: 0;
+    bottom: 90px;
+    left: 0;
+    right: 30px;
+    text-align: center;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background: rgb(0, 0, 0);
+    opacity: 0;
+    -webkit-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    transition: all 0.35s ease-in-out;
+}
+
+.buju1 a:hover .info1 {
+    opacity: 0.8;
+}
+
+
+.font0 {
+    color: rgb(254, 254, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    font-size: 10px;
+}
+.font2{
+    color: rgb(131, 131, 131);
+    font-family: inherit;
+}
+.get1{
+    border:1px solid white;
+    width: 65px;
+    height: 25px;
+    color: rgb(255, 248, 248);
+    float: left;
+    border-radius: 3px 3px 3px 3px;
+    margin-left: 10px;
+}
+.get2{
+    border:1px solid white;
+    width: 65px;
+    height: 25px;
+    color: rgb(255, 248, 248);
+    float: left;
+    border-radius: 3px 3px 3px 3px;
+    margin-left: 5px;
+}
+.get3{
+    border:1px solid white;
+    width: 65px;
+    height: 25px;
+    color: rgb(255, 248, 248);
+    float: left;
+    border-radius: 3px 3px 3px 3px;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.get4{
+    border:1px solid white;
+    width: 65px;
+    height: 25px;
+    color: rgb(255, 248, 248);
+    float: left;
+    border-radius: 3px 3px 3px 3px;
+    margin-left: 5px;
+    margin-top: 8px;
+}
+.get5{
+    border:1px solid white;
+    width: 65px;
+    height: 25px;
+    color: rgb(255, 248, 248);
+    float: left;
+    border-radius: 3px 3px 3px 3px;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.get6{
+    border:1px solid white;
+    width: 65px;
+    height: 25px;
+    color: rgb(255, 248, 248);
+    float: left;
+    border-radius: 3px 3px 3px 3px;
+    margin-left: 5px;
+    margin-top: 8px;
+}
+.font3{
+    float: left;
+    color: rgb(136, 130, 130);
+    border-radius: 5px 5px 5px 5px;
+    border:1px solid rgb(156, 151, 151);
+    height: 20px;
+    width: 65px;
+    height: 25px;
+}
+.font4{
+    float: left;
+    color: rgb(252, 159, 0);
+    border-radius: 5px 5px 5px 5px;
+    border:1px solid rgb(255, 154, 3);
+    height: 20px;
+    width: 80px;
+    height: 25px;
+    margin-left: 5px;
+}
+.font4:link{ 
+     
+    text-decoration-line: none;
+} 
+
+.font4:visited{ 
+    color: rgb(255, 255, 255); 
+    
+    
+} 
+.font4:hover{ 
+    font-size: 13px;
+    background-color: rgb(250, 118, 57);
+    color: aliceblue;
+} 
+.font5{
+    margin-left: 40px;
+    color: rgb(133, 133, 133);
+    margin-top: 8px;
+}
+.yema{
+    margin-left: 25%
+}
+
+
+
